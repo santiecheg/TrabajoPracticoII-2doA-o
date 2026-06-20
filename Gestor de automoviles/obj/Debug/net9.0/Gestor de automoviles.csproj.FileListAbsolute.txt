@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\PROGRAMACION\Proyectos Importantes\Gestor de automoviles\bin\Debug\net9.0\Gestor de automoviles.exe
+C:\Users\Usuario\Documents\PROGRAMACION\Proyectos Importantes\Gestor de automoviles\bin\Debug\net9.0\Gestor de automoviles.deps.json
+C:\Users\Usuario\Documents\PROGRAMACION\Proyectos Importantes\Gestor de automoviles\bin\Debug\net9.0\Gestor de automoviles.runtimeconfig.json
+C:\Users\Usuario\Documents\PROGRAMACION\Proyectos Importantes\Gestor de automoviles\bin\Debug\net9.0\Gestor de automoviles.dll
+C:\Users\Usuario\Documents\PROGRAMACION\Proyectos Importantes\Gestor de automoviles\bin\Debug\net9.0\Gestor de automoviles.pdb
+C:\Users\Usuario\Documents\PROGRAMACION\Proyectos Importantes\Gestor de automoviles\obj\Debug\net9.0\Gestor de automoviles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\PROGRAMACION\Proyectos Importantes\Gestor de automoviles\obj\Debug\net9.0\Gestor de automoviles.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\PROGRAMACION\Proyectos Importantes\Gestor de automoviles\obj\Debug\net9.0\Gestor de automoviles.AssemblyInfo.cs
+C:\Users\Usuario\Documents\PROGRAMACION\Proyectos Importantes\Gestor de automoviles\obj\Debug\net9.0\Gestor de automoviles.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\PROGRAMACION\Proyectos Importantes\Gestor de automoviles\obj\Debug\net9.0\Gestor de automoviles.dll
+C:\Users\Usuario\Documents\PROGRAMACION\Proyectos Importantes\Gestor de automoviles\obj\Debug\net9.0\refint\Gestor de automoviles.dll
+C:\Users\Usuario\Documents\PROGRAMACION\Proyectos Importantes\Gestor de automoviles\obj\Debug\net9.0\Gestor de automoviles.pdb
+C:\Users\Usuario\Documents\PROGRAMACION\Proyectos Importantes\Gestor de automoviles\obj\Debug\net9.0\Gestor de automoviles.genruntimeconfig.cache
+C:\Users\Usuario\Documents\PROGRAMACION\Proyectos Importantes\Gestor de automoviles\obj\Debug\net9.0\ref\Gestor de automoviles.dll
