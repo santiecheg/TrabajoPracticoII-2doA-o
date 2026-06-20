@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\PROGRAMACION\Proyectos Importantes\Tienda\obj\Debug\net9.0\Tienda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\PROGRAMACION\Proyectos Importantes\Tienda\obj\Debug\net9.0\Tienda.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\PROGRAMACION\Proyectos Importantes\Tienda\obj\Debug\net9.0\Tienda.AssemblyInfo.cs
+C:\Users\Usuario\Documents\PROGRAMACION\Proyectos Importantes\Tienda\obj\Debug\net9.0\Tienda.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\PROGRAMACION\Proyectos Importantes\Tienda\bin\Debug\net9.0\Tienda.exe
+C:\Users\Usuario\Documents\PROGRAMACION\Proyectos Importantes\Tienda\bin\Debug\net9.0\Tienda.deps.json
+C:\Users\Usuario\Documents\PROGRAMACION\Proyectos Importantes\Tienda\bin\Debug\net9.0\Tienda.runtimeconfig.json
+C:\Users\Usuario\Documents\PROGRAMACION\Proyectos Importantes\Tienda\bin\Debug\net9.0\Tienda.dll
+C:\Users\Usuario\Documents\PROGRAMACION\Proyectos Importantes\Tienda\bin\Debug\net9.0\Tienda.pdb
+C:\Users\Usuario\Documents\PROGRAMACION\Proyectos Importantes\Tienda\obj\Debug\net9.0\Tienda.dll
+C:\Users\Usuario\Documents\PROGRAMACION\Proyectos Importantes\Tienda\obj\Debug\net9.0\refint\Tienda.dll
+C:\Users\Usuario\Documents\PROGRAMACION\Proyectos Importantes\Tienda\obj\Debug\net9.0\Tienda.pdb
+C:\Users\Usuario\Documents\PROGRAMACION\Proyectos Importantes\Tienda\obj\Debug\net9.0\Tienda.genruntimeconfig.cache
+C:\Users\Usuario\Documents\PROGRAMACION\Proyectos Importantes\Tienda\obj\Debug\net9.0\ref\Tienda.dll
