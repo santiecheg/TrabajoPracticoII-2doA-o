@@ -1,0 +1,14 @@
+C:\Users\Usuario\Downloads\ProyectoJuegoPelea\Peleitas\bin\Debug\net9.0\Peleitas.exe
+C:\Users\Usuario\Downloads\ProyectoJuegoPelea\Peleitas\bin\Debug\net9.0\Peleitas.deps.json
+C:\Users\Usuario\Downloads\ProyectoJuegoPelea\Peleitas\bin\Debug\net9.0\Peleitas.runtimeconfig.json
+C:\Users\Usuario\Downloads\ProyectoJuegoPelea\Peleitas\bin\Debug\net9.0\Peleitas.dll
+C:\Users\Usuario\Downloads\ProyectoJuegoPelea\Peleitas\bin\Debug\net9.0\Peleitas.pdb
+C:\Users\Usuario\Downloads\ProyectoJuegoPelea\Peleitas\obj\Debug\net9.0\Peleitas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\ProyectoJuegoPelea\Peleitas\obj\Debug\net9.0\Peleitas.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\ProyectoJuegoPelea\Peleitas\obj\Debug\net9.0\Peleitas.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\ProyectoJuegoPelea\Peleitas\obj\Debug\net9.0\Peleitas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\ProyectoJuegoPelea\Peleitas\obj\Debug\net9.0\Peleitas.dll
+C:\Users\Usuario\Downloads\ProyectoJuegoPelea\Peleitas\obj\Debug\net9.0\refint\Peleitas.dll
+C:\Users\Usuario\Downloads\ProyectoJuegoPelea\Peleitas\obj\Debug\net9.0\Peleitas.pdb
+C:\Users\Usuario\Downloads\ProyectoJuegoPelea\Peleitas\obj\Debug\net9.0\Peleitas.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\ProyectoJuegoPelea\Peleitas\obj\Debug\net9.0\ref\Peleitas.dll
