@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\PROGRAMACION\Proyectos Importantes\Gestion de Empleados\bin\Debug\net9.0\Gestion de Empleados.exe
+C:\Users\Usuario\Documents\PROGRAMACION\Proyectos Importantes\Gestion de Empleados\bin\Debug\net9.0\Gestion de Empleados.deps.json
+C:\Users\Usuario\Documents\PROGRAMACION\Proyectos Importantes\Gestion de Empleados\bin\Debug\net9.0\Gestion de Empleados.runtimeconfig.json
+C:\Users\Usuario\Documents\PROGRAMACION\Proyectos Importantes\Gestion de Empleados\bin\Debug\net9.0\Gestion de Empleados.dll
+C:\Users\Usuario\Documents\PROGRAMACION\Proyectos Importantes\Gestion de Empleados\bin\Debug\net9.0\Gestion de Empleados.pdb
+C:\Users\Usuario\Documents\PROGRAMACION\Proyectos Importantes\Gestion de Empleados\obj\Debug\net9.0\Gestion de Empleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\PROGRAMACION\Proyectos Importantes\Gestion de Empleados\obj\Debug\net9.0\Gestion de Empleados.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\PROGRAMACION\Proyectos Importantes\Gestion de Empleados\obj\Debug\net9.0\Gestion de Empleados.AssemblyInfo.cs
+C:\Users\Usuario\Documents\PROGRAMACION\Proyectos Importantes\Gestion de Empleados\obj\Debug\net9.0\Gestion de Empleados.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\PROGRAMACION\Proyectos Importantes\Gestion de Empleados\obj\Debug\net9.0\Gestion de Empleados.dll
+C:\Users\Usuario\Documents\PROGRAMACION\Proyectos Importantes\Gestion de Empleados\obj\Debug\net9.0\refint\Gestion de Empleados.dll
+C:\Users\Usuario\Documents\PROGRAMACION\Proyectos Importantes\Gestion de Empleados\obj\Debug\net9.0\Gestion de Empleados.pdb
+C:\Users\Usuario\Documents\PROGRAMACION\Proyectos Importantes\Gestion de Empleados\obj\Debug\net9.0\Gestion de Empleados.genruntimeconfig.cache
+C:\Users\Usuario\Documents\PROGRAMACION\Proyectos Importantes\Gestion de Empleados\obj\Debug\net9.0\ref\Gestion de Empleados.dll
